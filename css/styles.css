@@ -1,0 +1,34 @@
+body {
+    background-color: #F5F5F5;
+    line-height: 1.6;
+    font-family: 'Yeon Sung', 'Concert One', 'Patrick Hand';
+  }
+  
+  h1 {
+    text-transform: uppercase;
+    text-align-last: center;
+    font-size: 2.5em;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 3px;
+    width: 71%;
+  }
+
+  img {
+    padding: 15px;
+  }
+
+  h1, h3 {
+      color: rgb(19, 83, 83);
+  }
+
+  table, th, td {
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: left;
+  }
+  
